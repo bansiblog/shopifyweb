@@ -1,0 +1,8 @@
+*** WHERE ARE THE OTHER SKINS?
+
+To get other skins and keep your theme update in the future without re-downloading anything,
+please use our Express Install via https://haloroar.com/private/importer
+
+This app is very easy to use,
+but you can follow our instruction here https://wiki.roartheme.com/clientapps/#express-install
+
